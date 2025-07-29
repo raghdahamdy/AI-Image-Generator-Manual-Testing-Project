@@ -1,0 +1,9 @@
+AI-ImageGenerator-ManualTesting/
+│
+├── TestCases/
+│   └── AI-ImageGenerator-TestCases.xlsx
+│
+├── BugReports/
+│   └── AI-ImageGenerator-BugReport.xlsx
+│
+└── README.md
